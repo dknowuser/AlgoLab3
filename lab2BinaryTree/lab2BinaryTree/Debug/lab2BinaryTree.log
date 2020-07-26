@@ -1,0 +1,17 @@
+﻿  TreeClass.cpp
+d:\labs\algoritms\algolab3\lab2binarytree\lab2binarytree\treeclass.cpp(288): warning C4804: '*=': unsafe use of type 'bool' in operation
+d:\labs\algoritms\algolab3\lab2binarytree\lab2binarytree\treeclass.cpp(288): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+d:\labs\algoritms\algolab3\lab2binarytree\lab2binarytree\treeclass.cpp(449): warning C4018: '<': signed/unsigned mismatch
+d:\labs\algoritms\algolab3\lab2binarytree\lab2binarytree\treeclass.cpp(487): warning C4018: '<=': signed/unsigned mismatch
+d:\labs\algoritms\algolab3\lab2binarytree\lab2binarytree\treeclass.cpp(494): warning C4018: '<': signed/unsigned mismatch
+d:\labs\algoritms\algolab3\lab2binarytree\lab2binarytree\treeclass.cpp(495): warning C4804: '+=': unsafe use of type 'bool' in operation
+d:\labs\algoritms\algolab3\lab2binarytree\lab2binarytree\treeclass.cpp(495): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+d:\labs\algoritms\algolab3\lab2binarytree\lab2binarytree\treeclass.cpp(527): warning C4018: '>=': signed/unsigned mismatch
+d:\labs\algoritms\algolab3\lab2binarytree\lab2binarytree\treeclass.cpp(530): warning C4018: '<=': signed/unsigned mismatch
+d:\labs\algoritms\algolab3\lab2binarytree\lab2binarytree\treeclass.cpp(548): warning C4018: '>': signed/unsigned mismatch
+d:\labs\algoritms\algolab3\lab2binarytree\lab2binarytree\treeclass.cpp(610): warning C4018: '<': signed/unsigned mismatch
+d:\labs\algoritms\algolab3\lab2binarytree\lab2binarytree\treeclass.cpp(631): warning C4018: '<': signed/unsigned mismatch
+d:\labs\algoritms\algolab3\lab2binarytree\lab2binarytree\treeclass.cpp(719): warning C4018: '<': signed/unsigned mismatch
+d:\labs\algoritms\algolab3\lab2binarytree\lab2binarytree\treeclass.cpp(53): warning C4715: 'BinaryTree::FindKey': not all control paths return a value
+  lab2BinaryTree.vcxproj -> D:\Labs\Algoritms\AlgoLab3\lab2BinaryTree\Debug\lab2BinaryTree.exe
+  lab2BinaryTree.vcxproj -> D:\Labs\Algoritms\AlgoLab3\lab2BinaryTree\Debug\lab2BinaryTree.pdb (Full PDB)
